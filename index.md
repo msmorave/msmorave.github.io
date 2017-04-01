@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/msmorave/msmorave.github.i
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 
-#This is me 
+#This is me [website for sg](http://sg.students.ncsu.edu)
 
 Hhey everyone my name is mitchell snoot moravec and this is my website crib 
 
